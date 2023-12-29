@@ -1,8 +1,6 @@
 # Prison-Management-System
-A desktop application to manage the details of Prison, adding and updating prisoner, Searching prisoner and their information, Adding and Updating Prisoner Information.
+This project is aimed at developing a prison management system that is a collection of data for the effective management of prisons. This system contain data for prisoners, employees , doctors, and duty officers 
 
-Daily Expense(Android Device)
-Daily Expense is a Mobile based application in android operating system where we add our daily expenses and end of the month we can see our total cost.
+Administrators will be able to store, search and delete data of the Prison which includes the basics of a prisoner , doctors , employees , duty officer .
+And duty officer will be able to view the prisoner and employees Data.
 
-University News App
-This apps helps the teachers and students to get the news from the site.
