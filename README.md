@@ -3,4 +3,6 @@ This project is aimed at developing a prison management system that is a collect
 
 Administrators will be able to store, search and delete data of the Prison which includes the basics of a prisoner , doctors , employees , duty officer .
 And duty officer will be able to view the prisoner and employees Data.
+To read the documentation please click [here](311-Refugee-management-Report.docx)
+
 
